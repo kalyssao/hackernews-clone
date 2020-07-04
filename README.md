@@ -1,6 +1,6 @@
 # Hacker News Clone w/ ReactJS
 
-[Application thumbnail](https://github.com/kalyssao/hackernews-clone/blob/master/thumbnail.png)
+![Application thumbnail](https://github.com/kalyssao/hackernews-clone/blob/master/thumbnail.png)
 
 This project was created based on Karl Hadwen's Create a Hacker News clone with React project, and makes use of unit testing with Jest. The application makes use of axios & Reat Hooks to make a call to the Hacker News API, which then returns story data which is rendered in the Story component. The Story container then displays the various story components.
 
